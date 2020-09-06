@@ -13,3 +13,5 @@ Casmium is a webapp for high school sports teams to upload and view gameplay dat
 
 ### Contact Me
 - 📫 LinkedIn: [https://www.linkedin.com/in/henry-shires-071650195/](https://www.linkedin.com/in/henry-shires-071650195/)
+
+Additionally, view my custom site I created to showcase my work: [https://hcshires.github.io](https://hcshires.github.io)
