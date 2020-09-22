@@ -8,9 +8,10 @@ I'm Henry Shires, a high school student invested in the world of software. I wor
 
 ### Featured Project: Casmium
 
-Casmium is a webapp for high school sports teams to upload and view gameplay data to improve strategy and performance in postseasons. Currently, Casmium only supports baseball pitching and hitting data, but is being worked on to support multiple sports with multiple types of data. Casmium is built in React.js, with a mobile app for data collection in React Native. Data and accounts are stored using Google's Firebase API.
+Casmium enables sports teams to collect, upload, and view gameplay analytics to improve strategy and game performance. Users collect data in real-time on the mobile app, then upload to our database where they can view their data in our custom dashboard. Currently, Casmium only supports baseball data, but support for other sports is on the roadmap. The Casmium web platform and mobile app are both built in React (React.js and Native) while data and accounts are stored using Google's Firebase API.
 
 >#### View Project at [casmium.com](https://casmium.com)
+>Interested in Casmium? [Contact us for more information](mailto:support@casmium.com)
 
 ### Contact Me
 - 📫 LinkedIn: [https://www.linkedin.com/in/henry-shires-071650195/](https://www.linkedin.com/in/henry-shires-071650195/)
