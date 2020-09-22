@@ -4,6 +4,7 @@ I'm Henry Shires, a high school student invested in the world of software. I wor
 
 - 🔭 I’m currently webmastering for a VATSIM virtual airline: Estafeta Carga Aérea - [https://estafetava.com](https://estafetava.com)
 - 🌱 I’m currently learning web development using Lavarel as well as React.js
+- :baseball: I'm additionally developing an app in React Native for my project below!
 
 ### Featured Project: Casmium
 
