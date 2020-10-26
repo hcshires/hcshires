@@ -2,8 +2,8 @@
 
 I'm Henry Shires, a high school student invested in the world of software. I work on websites, webapps, mobile apps, and video game integrations. I'm familiar with using and integrating APIs and look forward to expanding my knowledge with use of popular web frameworks, SDKs, and libraries.
 
-- 🔭 I’m currently webmastering for a VATSIM virtual airline: Estafeta Carga Aérea - [https://estafetava.com](https://estafetava.com)
-- 🌱 I’m currently learning web development using Lavarel as well as React.js
+- 🌐 I just finished desgining a website for ProjectDSM, the official re-creation of Downtown Des Moines, Iowa in Minecraft: [https://projectdsm.org](https://projectdsm.org)
+- 🖥️ I’m currently learning web development using Lavarel as well as React.js
 - :baseball: I'm additionally developing an app in React Native for my project below!
 
 ### Featured Project: Casmium
