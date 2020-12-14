@@ -3,7 +3,7 @@
 I'm Henry Shires, a high school student invested in the world of software. I work on websites, webapps, mobile apps, and video game integrations. I'm familiar with using and integrating APIs and look forward to expanding my knowledge with use of popular web frameworks, SDKs, and libraries.
 
 - 🌐 I just finished designing a website for [ProjectDSM, the official re-creation of Des Moines, Iowa in Minecraft](https://projectdsm.org)
-- 🖥️ I’m currently learning how to use React and Lavarel for mobile and web apps
+- 🖥️ I’m currently learning how to use React with various frameworks for mobile and web apps
 - :baseball: I'm additionally developing an app for my project below!
 
 ### Featured Project: Casmium - Sports Analytics Software
