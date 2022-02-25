@@ -16,4 +16,4 @@ Casmium enables sports teams to collect, upload, and view gameplay analytics to 
 ### Contact Me
 - 📫 LinkedIn: [https://www.linkedin.com/in/hcshires/](https://www.linkedin.com/in/hcshires/)
 
-Additionally, view my custom site I created to showcase my work: [https://hcshires.github.io](https://hcshires.github.io)
+Additionally, view my custom site I created to showcase my work: [https://hcshires.com](https://hcshires.com)
