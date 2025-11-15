@@ -1,4 +1,5 @@
 <img width="2560" height="640" alt="hcshires-readme-banner" src="https://github.com/user-attachments/assets/55f6b5e7-a152-46b8-94a0-f45e9be712c9" />
+
 # Hi there 👋 - I'm Henry Shires
 
 I'm Henry Shires, a future Computer Engineer studying at Iowa State University who's invested in all things technology. I have experience with websites, web apps, mobile apps, and APIs and will soon begin my digital logic and circuits studies. I'm even a partial owner of an LLC, and when I'm not in the lab or working on my business, I'm most likely grooving with my buddies in the drumline.
